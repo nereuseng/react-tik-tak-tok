@@ -1,6 +1,8 @@
 ## React Tik Tak Tok
 
-A practice for React Hooks by using tik tak tok project
+A practice for React Hooks by using tik tak tok project.
+
+Codesanbox demo: [Demo](https://codesandbox.io/s/github/nereuseng/react-tik-tak-tok)
 
 ## Available Scripts
 
