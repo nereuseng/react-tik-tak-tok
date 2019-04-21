@@ -1,4 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## React Tik Tak Tok
+
+A practice for React Hooks by using tik tak tok project
 
 ## Available Scripts
 
